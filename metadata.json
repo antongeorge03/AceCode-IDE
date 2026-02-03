@@ -1,0 +1,5 @@
+{
+  "name": "AceCode IDE",
+  "description": "A professional-grade web IDE featuring a Monaco-powered code editor, a functional terminal, and an integrated AI Copilot powered by Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
